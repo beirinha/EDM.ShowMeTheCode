@@ -1,25 +1,11 @@
-﻿# Desafio 5 :rocket: 
+# Desafio 5 :rocket: 
 
-Temos aqui o código de uma classe **Pizzaria** que cria piizzas de diversos sabores usando o método **CriarPizza()**
+Temos aqui o código de uma classe **Pizzaria** que cria pizzas de diversos sabores usando o método **CriarPizza()**
 que recebe uma ***string*** para indicar o tipo da pizza que deverá ser criado.
 
-`
-class Pizzaria
-    {
-        private Pizza pizza;
-        public void CriarPizza(string tipo)
-        {
-            if (tipo.Equals("mussarela"))
-            {
-                pizza = new PizzaMussarela();
-            }
-            else if (tipo.Equals("calabresa"))
-            {
-                pizza = new PizzaCalabresa();
-            }
-        }
-    }
-`
+## Classe Pizzaria 
+
+<img src="Classe Pizzaria.PNG">
 
 ## Tarefas :hammer:
 
