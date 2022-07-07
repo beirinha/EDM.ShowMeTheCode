@@ -1,4 +1,4 @@
-﻿# Desafio 1 :rocket: 
+# Desafio 1 :rocket: 
 
 Você tem em uma aplicação uma classe concreta **Cliente** que representa seu modelo de dominio
 e que possui as propriedades: **Nome, Pais e Email**
@@ -12,8 +12,9 @@ Após algum tempo foi implementado a funcionalidade parar exportar os dados dos 
 no formato CSV(Comma Separated Values) e isso foi feito incluindo o metodo
 **ExportarCSV** na classe **LocalizaCliente**.
 
-Diagrama UML
-![Diagrama UML](SOLID/Desafio-1/Diagrama LocalizaCliente.PNG)
+## Diagrama UML
+
+<img src="Diagrama LocalizaCliente.PNG">
 
 ## Tarefas :hammer:
 
